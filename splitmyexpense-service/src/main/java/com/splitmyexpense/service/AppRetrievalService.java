@@ -1,5 +1,5 @@
 //This is AppRetrievalService
-package com.splitmyexchange.service;
+package com.splitmyexpense.service;
 
 public class AppRetrievalService {
 	
